@@ -1,4 +1,4 @@
-# **CLT-TAB: Contrastive Learning Transformer with Continuous Adaptive Augmentation and Stochastic Query Pooling for Tabular Data**
+# **CLT-TAB: Contrastive Learning Transformer with Continuous Adaptive Tabular Augmentation and Stochastic Query Pooling for Tabular Data**
 
 ---
 
