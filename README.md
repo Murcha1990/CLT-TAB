@@ -83,7 +83,7 @@ The `Datasets/` folder contains Jupyter Notebooks for loading the specified data
 
 ### **4.2. CLT-TAB Training**
 
-To train CLT-TAB, execute the algorithm presented in Section 3. The `Examples/` folder contains a Jupyter Notebook with a model training example.
+To train CLT-TAB, execute the algorithm presented in Section 3. The `Example/` folder contains a Jupyter Notebook with a model training example.
 
 ### **4.3. Comparison with Other Models**
 
