@@ -87,6 +87,6 @@ To train CLT-TAB, execute the algorithm presented in Section 3. The `Example/` f
 
 ### **4.3. Comparison with Other Models**
 
-The `Experiments/` folder provides comments on the experimental logic and model configurations used in the experiments.
+The `Experimental_Design/` folder provides comments on the experimental logic and model configurations used in the experiments.
 
 Experimental results are available in the `Results/` folder.
